@@ -8,7 +8,7 @@ date: 2020-01-01
 
 ## Focus on creating assets, not income
 
-I had long held the belief that focussing on saving felt silly when some people can earn literally 100 times more than others, and by focussing on saving more money you are focussing on an incremental improvement over one that can be several orders of magnitude more impactful. Plus, saving money can be a little miserable!.
+I had long held the belief that focussing on saving felt silly when some people can earn literally 100 times more than others, and by focussing on saving more money you are focussing on an incremental improvement over one that can be several orders of magnitude more impactful. Plus, saving money can be a little miserable!
 
 I decided in 2019 that this wasn't quite the right way to think of it, and that to be truly wealthy is to focus on building assets. I felt it was time to work on Hiberly as part of this. The thing I learned is that having some money saved makes this easier - having some saved cash lets you focus on long run success. If I went back in time, I'd have thought harder about keeping my personal burn rate lower.
 
@@ -24,6 +24,8 @@ It's amazing what going live achieves. It will force you to complete on the litt
 
 Making progress is really satisfying and will help make sure you complete your overall objective.
 
+## In the end, product-led go to market approaches will win
 
+Disclaimer: We still need to validate if this is the right hypothesis.
  
 

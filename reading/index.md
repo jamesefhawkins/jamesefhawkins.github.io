@@ -4,7 +4,7 @@ title: "Reading"
 date: 2020-01-02
 ---
 
-I decided I'd start tracking what I read so I can become more purposeful in what I read. I think I've erred on the side of reading "output" based books historically, and this is an attempt to focus on improving my ability to think from first principles instead.
+I decided I'd start tracking what I read so I can become more purposeful. I think I've erred on the side of reading "output" based books historically, and this is an attempt to focus on improving my ability to think from first principles instead.
 
 ## Biographies
 

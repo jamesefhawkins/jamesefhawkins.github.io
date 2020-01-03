@@ -9,6 +9,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 ## Posts I want to write
 * The mental workload of hoovering
 * <strike>2019 decision analysis</strike>
+* First-principle based reading
 
 ## Other
 * Set up local Jekyll deployment

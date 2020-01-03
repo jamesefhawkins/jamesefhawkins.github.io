@@ -48,6 +48,20 @@ A good fundamental grounding in how VCs think. Click-baity title, but it worked 
 
 ## Travel
 
+### Blood River, Tim Butcher
+
+A journalist's solo trip through the Congo. Sad but engrossing.
+
+### Sheila in the Wind, Adrian Hayter
+
+My wife's family are into sailing 100 year old small yachts. The boat in this story is the sister of my wife's family's boat. That sounds grander than it is.
+
+## Sport
+
+### Born to Run, Christopher McDougall
+
+A fascinating first-principles approach to running in action.
+
 ### The Extra Mile
 
 A list of non-chain restaurants within 1 mile of the motorway, across the UK.

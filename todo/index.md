@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ideas"
+title: "Todo"
 date: 2020-01-01
 ---
 
-Here are a few ideas for topics, and will make more sense to me than to you:
+This is a notepad for things I want to do with this site, and will make more sense to me than to you:
 
 ## Posts I want to write
-* Who does the hoovering
-* 2019 decision analysis
+* The mental workload of hoovering
+<strike>* 2019 decision analysis</strike>
+
+

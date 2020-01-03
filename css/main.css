@@ -5,11 +5,15 @@
 
 .container {
 	width:500px;
+	float:left;
 }
 
 nav {
 	width:150px;
 	float:right;
-	list-style:none;
 	text-align:right;
+}
+
+li {
+	list-style:none;
 }

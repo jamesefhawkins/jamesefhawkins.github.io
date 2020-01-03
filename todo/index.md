@@ -10,4 +10,6 @@ This is a notepad for things I want to do with this site, and will make more sen
 * The mental workload of hoovering
 * <strike>2019 decision analysis</strike>
 
+## Other
+* Set up local Jekyll deployment
 

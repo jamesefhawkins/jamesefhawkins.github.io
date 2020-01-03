@@ -1,4 +1,15 @@
+.left {
+	width:50px;
+	float:left;
+}
+
+.container {
+	width:500px;
+}
+
 nav {
 	width:150px;
 	float:right;
+	list-style:none;
+	text-align:right;
 }

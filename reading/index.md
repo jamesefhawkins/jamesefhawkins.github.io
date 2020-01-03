@@ -10,11 +10,11 @@ In progress. Thoughts so far: story-led approach. Very readable.
 
 Gives a nice framework with tons of practical examples from leading companies. Tactical advice that doesn't deal in the hypothetical.
 
-## Hacking Growth, Morgan Brown and Sean Ellis
+### Hacking Growth, Morgan Brown and Sean Ellis
 
 Not bad, but a fluffier version of the above. The anecdotes are more generic and ones you're more likely to already know.
 
-## Blitzscaling, Reid Hoffman and Chris Yeh
+### Blitzscaling, Reid Hoffman and Chris Yeh
 
 Demonstrates what true ambition can look like.
 

@@ -48,7 +48,7 @@ A good fundamental grounding in how VCs think. Click-baity title, but it worked 
 
 ## Travel
 
-### Blood River, Tim Butcher
+### Blood River, Tim Butcher
 
 A journalist's solo trip through the Congo. Sad but engrossing.
 
@@ -58,7 +58,7 @@ The author documents his journey in a 100 year old yacht from the UK to Australi
 
 ## Sport
 
-### Born to Run, Christopher McDougall
+### Born to Run, Christopher McDougall
 
 A fascinating first-principles approach to running in action.
 

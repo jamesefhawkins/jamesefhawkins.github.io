@@ -54,7 +54,7 @@ A journalist's solo trip through the Congo. Sad but engrossing.
 
 ### Sheila in the Wind, Adrian Hayter
 
-My wife's family are into sailing 100 year old small yachts. The boat in this story is the sister of my wife's family's boat. That sounds grander than it is.
+The author documents his journey in a 100 year old yacht from the UK to Australia, without a motor. The boat in this story is the sister of my wife's family's boat, so it was an interesting personal read.
 
 ## Sport
 

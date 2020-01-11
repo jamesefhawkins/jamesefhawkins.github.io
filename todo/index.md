@@ -10,7 +10,8 @@ This is a notepad for things I want to do with this site, and will make more sen
 * <strike>The mental workload of hoovering</strike>
 * <strike>2019 decision analysis</strike>
 * First-principle based reading
-* Why evolutionary psychology isn't a thing
+* Why isn't evolutionary psychology a thing
+* Content marketing survivorship bias
 
 ## Other
 * Set up local Jekyll deployment

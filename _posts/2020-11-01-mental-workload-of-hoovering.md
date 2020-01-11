@@ -36,6 +36,6 @@ In fact, many of these measures are combined with subjective questioning too.
 
 ## Mental workload as a wearable
 
-However, there remains a need for a good way to measure this as an everyday wearable, which would be pretty cool as something to bring up your phone - definitely a step up from just exercise. Skin conductance is no good as you're walking about. Alpha activity measurement headsets look pretty ungainly, at the moment.
+However, there remains a need for a good way to measure this as an everyday wearable, which would be pretty cool as something to track on your phone - definitely a step up from just exercise. Skin conductance is no good as you're walking about, so the signal-noise ratio would make it meaningless. Alas, alpha activity measurement headsets look pretty ungainly, at the moment.
 
-The applications of this would be very cool - there is so much great stuff that helps you improve sleep quality, but there's nothing that helps you optimise what you do at your desk, or in your daily life trying to keep on top of the hoovering.
+Applications of this would be very cool - there is so much great stuff that helps you improve sleep quality, but there's nothing that helps you optimise what you do at your desk, or in your daily life trying to keep on top of the hoovering.

@@ -7,9 +7,10 @@ date: 2020-01-01
 This is a notepad for things I want to do with this site, and will make more sense to me than to you:
 
 ## Posts I want to write
-* The mental workload of hoovering
+* <strike>The mental workload of hoovering</strike>
 * <strike>2019 decision analysis</strike>
 * First-principle based reading
+* Why evolutionary psychology isn't a thing
 
 ## Other
 * Set up local Jekyll deployment

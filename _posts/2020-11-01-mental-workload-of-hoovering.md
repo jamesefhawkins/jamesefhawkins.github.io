@@ -30,12 +30,12 @@ A commonly accepted way to define mental workload is as the product of factors t
 
 There have been many attempts to track mental workload - alpha band power is used to classify workload using electroencephalography. For pilots, for example, increased alpha activity in their brains has been observed as decreasing during take-off and landing phases. Alpha activity itself is the neural oscillations that come from the electrical activity of thalamic cells. The thalamus is generally thought of as a relay station to relay info between many areas of your brain. For example, inputs from your retina are sent to the thalamus, which sends them to the visual cortex, which is located in an area of your brain called the occipital lobe, hence why measuring how much stuff is going on here is a reasonable proxy for how hard you're working.
 
-Skin conductance is used as an indirect measure. Skin resistance vearies with the state of sweat glands - when the sympathetic branch of the nervous system is aroused, then sweat gland activity increases - even when you are cold. Likewise, heart rate is used similarly. 
+Skin conductance is used as an indirect measure. Skin resistance varies with the state of sweat glands - when the sympathetic branch of the nervous system is aroused, then sweat gland activity increases - even when you are cold. Likewise, heart rate is used similarly. 
 
 In fact, many of these measures are combined with subjective questioning too.
 
-## Mental workload via a wearable
+## Mental workload as a wearable
 
 However, there remains a need for a good way to measure this as an everyday wearable, which would be pretty cool as something to bring up your phone - definitely a step up from just exercise. Skin conductance is no good as you're walking about. Alpha activity measurement headsets look pretty ungainly, at the moment.
 
-
+The applications of this would be very cool - there is so much great stuff that helps you improve sleep quality, but there's nothing that helps you optimise what you do at your desk, or in your daily life trying to keep on top of the hoovering.

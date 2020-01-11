@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mental Workload Of Hoovering"
-date: 2020-11-01
+date: 2020-01-11
 ---
 
 Fran, my wife, one day told me off for not doing the hoovering. An argument ensued - at the time, I felt I was in fact doing most of the hoovering. However, once we talked about it in more depth, she made the point that I only do hoovering on demand.

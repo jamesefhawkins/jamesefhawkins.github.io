@@ -18,7 +18,7 @@ If you don't have a regular cadence to it in your subconscious, then you need to
 
 We don't have a set place for our hoover - our house just doesn't seem to have a suitable nook yet. Our house is also three floors. We could minimise this friction by keeping it in the same place to prevent the dash around the house each time.
 
-## Application to work 
+## Application to work 
 
 I think this explains why when you're a manager you can feel stressed and busy despite not actually producing any output directly, and it's useful to realise that this matters.
 

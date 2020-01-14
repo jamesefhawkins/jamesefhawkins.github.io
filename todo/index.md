@@ -12,6 +12,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 * First-principle based reading
 * Why isn't evolutionary psychology a thing
 * Content marketing survivorship bias
+* Is voting frequency ruining the world?
 
 ## Other
 * Set up local Jekyll deployment

@@ -13,6 +13,8 @@ This is a notepad for things I want to do with this site, and will make more sen
 * Why isn't evolutionary psychology a thing
 * Content marketing survivorship bias
 * Is voting frequency ruining the world?
+* The infrastructure needed for the IOT
+* Trends in the cost of sensors
 
 ## Other
 * Set up local Jekyll deployment

@@ -15,7 +15,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 * Is voting frequency ruining the world?
 * The infrastructure needed for the IOT
 * Trends in the cost of sensors
-* The problem with soft problems
+* <strike>The problem with soft problems</strike>
 
 ## Other
 * Set up local Jekyll deployment

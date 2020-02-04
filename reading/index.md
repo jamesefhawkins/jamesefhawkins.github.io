@@ -10,7 +10,7 @@ I decided I'd start tracking what I read so I can become more purposeful. I thin
 
 ### Alexander the Great
 
-In progress. Thoughts so far: story-led approach. Very readable.
+Achieves an incredible empire by the time he's 30. Leaves you simultaneously impressed but very conflicted about the means.
 
 ## Growth
 

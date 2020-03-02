@@ -16,6 +16,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 * The infrastructure needed for the IOT
 * Trends in the cost of sensors
 * <strike>The problem with soft problems</strike>
+* Should sales leaders have big targets?
 
 ## Other
 * <strike>Set up local Jekyll deployment</strike>

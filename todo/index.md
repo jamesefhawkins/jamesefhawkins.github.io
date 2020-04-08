@@ -20,7 +20,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 
 ## Reading
 
-* The Black Jacobins, C.L.R James - 1937 book on Haitian Revolution (leadership / how to chnage a culture)
+* The Black Jacobins, C.L.R James - 1937 book on Haitian Revolution (leadership / how to change a culture)
 * Writing My Wrongs, Shaka Senghor - memoirs from Shaka who went to prison for 19 years, then became an MIT fellow
 * Lenin: The Man, the Dictator, and the Master of Terror, Victor Sebestyen - biography providing insight into Communism in practice
 * Skin in the Game, Nicholas Nassim Taleb - dynamics of how random systems behave

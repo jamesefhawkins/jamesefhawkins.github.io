@@ -26,6 +26,12 @@ Not bad, but a fluffier version of the above. The anecdotes are more generic and
 
 Demonstrates what true ambition can look like.
 
+## Management
+
+### No Rules Rules: Netflix and the Culture of Reinvention, Reed Hastings
+
+Didn't agree with everything - more clarity for repeated decisions would drive more efficiency and less stress, but the way he runs the business like a sports team - distributed decision making, paying top of market and generous severance - and the tactics to build a culture of feedback resonated.
+
 ## Product
 
 ### The Mom Test, Rob Fitzpatrick

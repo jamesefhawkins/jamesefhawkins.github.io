@@ -12,6 +12,24 @@ I decided I'd start tracking what I read so I can become more purposeful. I thin
 
 Achieves an incredible empire by the time he's 30. Leaves you simultaneously impressed but very conflicted about the means.
 
+## Design
+
+### Design as Art, Bruno Manari
+
+Made me wish I had a Japanese house.
+
+### book of branding, Radim Malinic
+
+A good initial overview on how to achieve strong branding in practise, with a lot of case studies. It felt a little too much like paying for a portfolio but was helpful.
+
+### The Design of Everyday Things, Donald A. Norman
+
+A must read for design principles. I'll never see doors, light sockets or electric cars the same way.
+
+### Visual Grammar, Christian Leborg
+
+Clarifies the terms used in visual design, a very quick read but useful if you collaborate with designers regularly.
+
 ## Growth
 
 ### Traction, Gabriel Weinberg and Justin Mares

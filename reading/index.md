@@ -22,6 +22,10 @@ Made me wish I had a Japanese house.
 
 A good initial overview on how to achieve strong branding in practise, with a lot of case studies. It felt a little too much like paying for a portfolio but was helpful.
 
+### The Designer's Dictionary of Colour, Sean Adams
+
+Rebranding? Worth thinking about palette choice more deeply.
+
 ### The Design of Everyday Things, Donald A. Norman
 
 A must read for design principles. I'll never see doors, light sockets or electric cars the same way.
@@ -46,6 +50,10 @@ Demonstrates what true ambition can look like.
 
 ## Management
 
+### Creativity, Inc, Ed Catmull
+
+The process behind Pixar's repeated creativity.
+
 ### No Rules Rules: Netflix and the Culture of Reinvention, Reed Hastings
 
 Didn't agree with everything - more clarity for repeated decisions would drive more efficiency and less stress, but the way he runs the business like a sports team - distributed decision making, paying top of market and generous severance - and the tactics to build a culture of feedback resonated.
@@ -64,11 +72,17 @@ Simple concepts, lots of good practical examples.
 
 A less good version of the above - found it a bit repetitive.
 
-## Raising
+## Raising money
 
 ### Secrets of Sand Hill Road, Scott Kupor
 
 A good fundamental grounding in how VCs think. Click-baity title, but it worked for me.
+
+## Sport
+
+### Born to Run, Christopher McDougall
+
+A fascinating first-principles approach to running in action.
 
 ## Travel
 
@@ -79,12 +93,6 @@ A journalist's solo trip through the Congo. Sad but engrossing.
 ### Sheila in the Wind, Adrian Hayter
 
 The author documents his journey in a 100 year old yacht from the UK to Australia, without a motor. The boat in this story is the sister of my wife's family's boat, so it was an interesting personal read.
-
-## Sport
-
-### Born to Run, Christopher McDougall
-
-A fascinating first-principles approach to running in action.
 
 ### The Extra Mile
 

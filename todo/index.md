@@ -17,6 +17,7 @@ This is a notepad for things I want to do with this site, and will make more sen
 * Trends in the cost of sensors
 * <strike>The problem with soft problems</strike>
 * Should sales leaders have big targets?
+* Why professional cycling isn't about fitness
 
 ## Reading
 

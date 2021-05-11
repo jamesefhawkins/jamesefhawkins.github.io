@@ -12,6 +12,10 @@ I decided I'd start tracking what I read so I can become more purposeful. I thin
 
 Achieves an incredible empire by the time he's 30. Leaves you simultaneously impressed but very conflicted about the means.
 
+### Jony Ive: The Genius Behind Apple's Greatest Products
+
+I learned _much_ more about how Apple's design team actually works by reading this than Steve Jobs' bio. Specifically: (i) what it means to be design-led, and (ii) what it meant to Apple to be a product-led company, focussing on that as an input then just growing a ton of revenue "automatically". Going to read more about executives versus CEOs in future.
+
 ## Design
 
 ### Design as Art, Bruno Manari

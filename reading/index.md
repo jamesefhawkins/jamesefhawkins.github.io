@@ -16,6 +16,10 @@ Achieves an incredible empire by the time he's 30. Leaves you simultaneously imp
 
 I learned _much_ more about how Apple's design team actually works by reading this than Steve Jobs' bio. Specifically: (i) what it means to be design-led, and (ii) what it meant to Apple to be a product-led company, focussing on that as an input then just growing a ton of revenue "automatically". Going to read more about executives versus CEOs in future.
 
+### Dapper Dan, Daniel Day
+
+Harlem hustler turned the creator of high end street fashion. His shop never closed. Read to learn about hustle and resourcefulness. A vivid insight into his life in NY.
+
 ## Design
 
 ### Design as Art, Bruno Manari

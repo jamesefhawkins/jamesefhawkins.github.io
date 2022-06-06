@@ -66,6 +66,10 @@ The process behind Pixar's repeated creativity.
 
 Didn't agree with everything - more clarity for repeated decisions would drive more efficiency and less stress, but the way he runs the business like a sports team - distributed decision making, paying top of market and generous severance - and the tactics to build a culture of feedback resonated.
 
+### Amp It Up, Slootman
+
+The CEO of Snowflake. Main learnings (i) the importance of being a driver rather than a passenger (you want drivers) (ii) people need to care about their work - ask them if they're ecstatic about it, if not - revisit (iii) don't care what your board thinks - push everyone to grow faster (iv) you're not optimizing for popularity.
+
 ## Product
 
 ### The Mom Test, Rob Fitzpatrick
@@ -79,6 +83,10 @@ Simple concepts, lots of good practical examples.
 ### Inspired, Marty Cagan
 
 A less good version of the above - found it a bit repetitive.
+
+### The Cold Start Problem, Andrew Chen
+
+Describes how Uber works. Discusses Network effects in depth. Main learnings (i) Networks go both ways - they can collapse (ii) you need to figure out if demand drives supply or vice versa (iii) start by figuring out what your network MVP is - what's the easiest way to build a network with value
 
 ## Raising money
 

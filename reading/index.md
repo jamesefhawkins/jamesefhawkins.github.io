@@ -42,6 +42,20 @@ A must read for design principles. I'll never see doors, light sockets or electr
 
 Clarifies the terms used in visual design, a very quick read but useful if you collaborate with designers regularly.
 
+## Gardening
+
+### Gardening with chickens, Lisa Steele
+
+A lot of the fun of this plan (still working on creating an area for chickens in our garden, watch this space), is combining chickens with gardening.
+
+### Organic Gardening, Charles Dowding
+
+A really good explanation of the no dig method. Going to try this over the autumn. It has good crop-specific guidance, although it's a little inconsistent depending on which crop you look at - some have full explanations, others don't!
+
+### Raising chickens for beginners, Max Barnes
+
+A good 101!
+
 ## Growth
 
 ### Traction, Gabriel Weinberg and Justin Mares

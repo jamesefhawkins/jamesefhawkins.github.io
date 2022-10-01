@@ -84,6 +84,10 @@ Didn't agree with everything - more clarity for repeated decisions would drive m
 
 The CEO of Snowflake. Main learnings (i) the importance of being a driver rather than a passenger (you want drivers) (ii) people need to care about their work - ask them if they're ecstatic about it, if not - revisit (iii) don't care what your board thinks - push everyone to grow faster (iv) you're not optimizing for popularity.
 
+### The Coaching Habit, Michael Stanier
+
+Wasn't a fan of this - could have been a list of questions. Don't buy books that have ads for other stuff in them!
+
 ## Product
 
 ### The Mom Test, Rob Fitzpatrick

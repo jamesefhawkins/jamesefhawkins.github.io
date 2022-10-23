@@ -88,6 +88,10 @@ The CEO of Snowflake. Main learnings (i) the importance of being a driver rather
 
 Wasn't a fan of this - could have been a list of questions. Don't buy books that have ads for other stuff in them!
 
+### The Great CEO Within, Matt Mochary
+
+Wasn't particularly useful for me, only because at PostHog, we're following all the things I considered good ideas. If I were less experienced, this would've been very handy though.
+
 ## Product
 
 ### The Mom Test, Rob Fitzpatrick

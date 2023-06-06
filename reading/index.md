@@ -20,6 +20,10 @@ I learned _much_ more about how Apple's design team actually works by reading th
 
 Harlem hustler turned the creator of high end street fashion. His shop never closed. Read to learn about hustle and resourcefulness. A vivid insight into his life in NY.
 
+### Confessions of an Advertising Man, David Ogilvy
+
+A touch arrogant, but really interesting how it touches on the detail of running a huge advertising agency. The scale of the campaigns (how do we improve Puerto Rico's economy / advertise the USA / etc), and the day-to-day pain of finding and managing the right team, and how they dealt with clients, is what I enjoyed reading about the most. Made me want to go back through how we do brand.
+
 ## Design
 
 ### Design as Art, Bruno Manari
